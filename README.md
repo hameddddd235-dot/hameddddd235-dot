@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Abdullah Hamed 👋
 
-<!--
-**hameddddd235-dot/hameddddd235-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Artificial Intelligence & Software Engineering
 
-Here are some ideas to get you started:
+I'm an Information Engineering student specializing in Artificial Intelligence,
+with a strong interest in Machine Learning, Deep Learning, Computer Vision,
+and intelligent software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Convolutional Neural Networks (CNN)
+- Image Classification
+- Random Forest
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- LightGBM
+
+## 💻 Programming & Backend
+
+- Python
+- JavaScript
+- TypeScript
+- Node.js
+- Express.js
+- NestJS
+
+## 📊 Data Science & AI Libraries
+
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- OpenCV
+
+## 🗄️ Databases
+
+- MySQL
+- PostgreSQL
+- SQL
+- Prisma ORM
+
+## 🛠️ Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- npm
+
+---
+
+## 🚀 Featured Projects
+
+### AI Image Classification & Pattern Recognition
+Machine learning and deep learning project focused on image classification,
+dataset preprocessing, CNN models, and model evaluation.
+
+### Exam Hall Proctor Distribution System
+Web-based system for automatically distributing examination proctors
+while considering schedules, hall capacity, and assignment constraints.
+
+---
+
+## 🎯 Current Focus
+
+Artificial Intelligence • Machine Learning • Deep Learning •
+Computer Vision • Backend Development
+
+---
+
+## 📫 Contact
+
+- Email: hameddddd235@gmail.com
+- LinkedIn: Abdallah Hossam Hamed
